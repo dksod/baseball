@@ -10,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 만든 이유 : 야구를 소개하기 위해서
+## 만든 사람들 : 김서진, 김성욱, 장정우
+### 역할 : 김서진(챗봇), 김성욱(자료조사), 장정우(깃헙꾸미기)
 
 - Bulleted
 - List
