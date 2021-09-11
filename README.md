@@ -14,11 +14,6 @@
 
 - List : 야구에 대한 설명, 규칙, 과학적 원리, 구단 정보 등
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 
 ```
 
